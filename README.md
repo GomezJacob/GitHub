@@ -1,3 +1,2 @@
 # GitHub
-Hi
 Hello
